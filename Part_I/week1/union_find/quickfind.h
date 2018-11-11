@@ -6,6 +6,7 @@ public:
     bool isConnected(int p,int q);
     void qf_union(int p, int q);
     void printqf();
+    ~QuickFind();
 private:
     int* array;
     int size;

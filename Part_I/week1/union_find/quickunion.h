@@ -7,6 +7,7 @@ public:
     void qk_union(int p, int q);
     void qk_print();
     int* root(int p);
+    ~QuickUnion();
 private:
     int size;
     int* array;
