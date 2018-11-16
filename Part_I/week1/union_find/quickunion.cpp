@@ -1,4 +1,4 @@
-#include "quickunion.h"
+ #include "quickunion.h"
 #include <iostream>
 
 using namespace std;
